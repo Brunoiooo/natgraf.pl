@@ -139,7 +139,7 @@
             @endforeach
         </table>
 
-        <img src="https://en.wikipedia.org/wiki/Tyrannosaurus#/media/File:Tyrannosaurus_rex_mmartyniuk.png" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Tyrannosaurus_rex_mmartyniuk.png/1920px-Tyrannosaurus_rex_mmartyniuk.png" />
 
         <script>
             function deleteUrl(button_id, input_id){
