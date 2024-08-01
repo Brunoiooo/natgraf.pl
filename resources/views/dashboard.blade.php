@@ -139,6 +139,8 @@
             @endforeach
         </table>
 
+        <img src="https://en.wikipedia.org/wiki/Tyrannosaurus#/media/File:Tyrannosaurus_rex_mmartyniuk.png" />
+
         <script>
             function deleteUrl(button_id, input_id){
                const button = document.getElementById(button_id);
