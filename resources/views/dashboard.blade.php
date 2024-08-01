@@ -56,8 +56,8 @@
                 <th>Tags</th>
                 <th>Add new Tag</th>
                 <th>Status</th>
-                <th>Edit</th>//TODO: dorobić edita
-                <th>Delete</th>//TODO: dorobić delete
+                <th>Edit</th>
+                <th>Delete</th>
             </tr>
             @foreach ($pets as $pet)
                 <tr>
